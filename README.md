@@ -35,7 +35,7 @@ When collecting contact-rich task data through teleoperation, the system can pro
 # Requirements
 ## Hardware
 - [Meta Quest3 128GB](https://www.meta.com/quest/quest-3/) VR headset.
-- Please see the [RDP repository](****) for other hardware and software requirements for the whole teleoperation system.
+- Please see the [RDP repository](https://github.com/xiaoxiaoxh/reactive_diffusion_policy) for other hardware and software requirements for the whole teleoperation system.
 
 ## Network
 -  Make sure that the Quest 3, the workstation and the robots are in the same local area network (LAN).  
