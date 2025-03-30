@@ -5,7 +5,7 @@
 
 ## Steps
 ### 1. Connect to the Wireless Network
-Open the Quest's Wi-Fi settings and connect to the same network as the workstation which runs the teleopretaion server.
+Open the Quest's Wi-Fi settings and connect to the same network as the workstation which runs the teleoperataion server.
 
 
 ### 2. Launch Software
