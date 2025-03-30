@@ -35,6 +35,8 @@ When collecting contact-rich task data through teleoperation, the system can pro
 # Requirements
 ## Hardware
 - [Meta Quest3 128GB](https://www.meta.com/quest/quest-3/) VR headset.
+- Please see the [RDP repository](****) for other hardware and software requirements for the whole teleoperation system.
+
 ## Network
 -  Make sure that the Quest 3, the workstation and the robots are in the same local area network (LAN).  
 - (Optional) For Chinese users, please use custom proxy to activate Quest 3. We recommend configuring a proxy plugin directly within the Wi-Fi-enabled router, specifically to route traffic for the Quest 3 through the proxy. After activating Quest 3, you can disable the proxy and only use the local network for teleoperation.
