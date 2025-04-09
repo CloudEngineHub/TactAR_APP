@@ -37,7 +37,7 @@
 
     * `IP`: The default IP of the workstation. This can also be manually modified in the AR surface via the AR keyboard. 
     * `Port`: The default port of the workstation.
-    * `Hz`: The frequency at which the VR controller pose data is sent to the workstation.
+    * `Hz`: The frequency at which the VR controller pose data is sent to the workstation. Note that we use 60 Hz by default to reduce the performance consumption and heat generation of the Quest 3. However, you can also set it to 90 Hz and change the corresponding `fps` in `teleop_server` [config](https://github.com/xiaoxiaoxh/reactive_diffusion_policy/blob/main/reactive_diffusion_policy/config/task/real_robot_env.yaml).
 
     `VisualizationServer`: The component for receiving visualization data from the workstation via UDP and rendering them in AR. The data includes:
     - `Robot`: TCP pose of the robot.
