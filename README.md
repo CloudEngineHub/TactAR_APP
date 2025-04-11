@@ -1,6 +1,6 @@
 # TactAR APP
 
-This is the source code for the tactile/force teleoperation APP called **TactAR** in "[Reactive Diffusion Policy: Slow-Fast Visual-Tactile Policy Learning for Contact-Rich Manipulation](https://reactive-diffusion-policy.github.io/)".
+This is the source code for the tactile/force teleoperation APP called **TactAR** in the RSS 2025 paper "[Reactive Diffusion Policy: Slow-Fast Visual-Tactile Policy Learning for Contact-Rich Manipulation](https://reactive-diffusion-policy.github.io/)".
 
 # Overview
 ![image](./Image/TactAR.gif)
