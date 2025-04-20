@@ -22,7 +22,7 @@ Enter the correct IP address (the first line in the UI) of the workstation (the 
 1. Press the `X` button on the left controller and the `A` button on the right controller simultaneously and a coordinate axis will appear on the screen.
 2. Hold the trigger on the right controller, pull back the controller or rotate the wrist to calibrate the rotation of the coordniate system.
 3. Hold the trigger on the left controller and move the VR controller to adjust the origin position of the coordinate system.
-4. Ensure the side of the blue axis (z-axis in Unity) with the sphere is facing backward.
+4. Ensure the side of the blue axis (z-axis in Unity) with the sphere is facing backward (correspoinding to x-axis in the world coordinate system).
 5. Once calibration is complete, press the `X` button on the left controller and the `A` button on the right controller simultaneously to exit the calibration process.
 
 ### 6. Control the Robotic Arm
