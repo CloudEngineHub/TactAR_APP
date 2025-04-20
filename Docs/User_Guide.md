@@ -15,7 +15,7 @@ Find and launch the `TactAR` APP from the application list.
 Look at the ground to set the boundary beneath feet and confirm the ground boundary.
 
 ### 4. (Optional) Set IP Address
-Enter the correct IP address of the workstation (the host IP in the UI) and click `Refesh IP`. You can click the virtual keyboard button with your finger. You can also change the default IP address and build the APP from source, so that you don't need to enter the IP manually.
+Enter the correct IP address (the first line in the UI) of the workstation (the host IP in the UI) and click `Refesh IP`. You can click the virtual keyboard button with your finger. You can also change the default IP address and build the APP from source, so that you don't need to enter the IP manually.
 
 ### 5. Coordinate Calibration
 
@@ -26,7 +26,7 @@ Enter the correct IP address of the workstation (the host IP in the UI) and clic
 5. Once calibration is complete, press the `X` button on the left controller and the `A` button on the right controller simultaneously to exit the calibration process.
 
 ### 6. Control the Robotic Arm
-
+Make sure that both VR controllers are held in your hands and can be tracked by Quest3.
 - **Left Arm Control:**
   - Hold the side trigger on the left controller.
     - Move hand to control the position of the robot end-effector
