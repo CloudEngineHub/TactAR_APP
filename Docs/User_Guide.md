@@ -15,7 +15,7 @@ Find and launch the `TactAR` APP from the application list.
 Look at the ground to set the boundary beneath feet and confirm the ground boundary.
 
 ### 4. (Optional) Set IP Address
-Enter the correct IP address of the workstation (the host IP in the UI). You can click the virtual keyboard button with your finger. You can also change the default IP address and build the APP from source, so that you don't need to enter the IP manually.
+Enter the correct IP address of the workstation (the host IP in the UI) and click `Refesh IP`. You can click the virtual keyboard button with your finger. You can also change the default IP address and build the APP from source, so that you don't need to enter the IP manually.
 
 ### 5. Coordinate Calibration
 
