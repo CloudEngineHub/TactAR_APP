@@ -4,7 +4,7 @@
 - [x] Add video tutorial on how to use TactAR.
 
 ## Youtube Tutorial
-[![Youtube Tutorial](Image/TactAR_Tutorial.png)](https://youtube.com/playlist?list=PLwrbMgBYHlQVNC91lPlLiaZPV95Ozu_jW&feature=shared)
+[![Youtube Tutorial](../Image/TactAR_Tutorial.png)](https://youtube.com/playlist?list=PLwrbMgBYHlQVNC91lPlLiaZPV95Ozu_jW&feature=shared)
 
 ## Steps
 ### 1. Connect to the Wireless Network
