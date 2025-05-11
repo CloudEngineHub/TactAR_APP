@@ -59,6 +59,11 @@ If you want to modify the code or the default paramaters (e.g. workstation IP an
 # User Guide
 Please refer to the [user guide](Docs/User_Guide.md) for detailed guidance on how to use TactAR for teleoperation.
 
+# Video Tutorial
+Please refer to the [video tutorial](https://youtube.com/playlist?list=PLwrbMgBYHlQVNC91lPlLiaZPV95Ozu_jW&feature=shared) for a step-by-step guide on how to use TactAR.
+
+
+
 
 
 
