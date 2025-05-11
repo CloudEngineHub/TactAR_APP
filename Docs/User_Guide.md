@@ -1,7 +1,4 @@
 # User Guide of TactAR
-## TODO
-- [x] Add text tutorial on how to use TactAR.
-- [x] Add video tutorial on how to use TactAR.
 
 ## Video Tutorial
 Please refer to the [video tutorial](https://youtube.com/playlist?list=PLwrbMgBYHlQVNC91lPlLiaZPV95Ozu_jW&feature=shared) for a step-by-step guide on how to use TactAR.

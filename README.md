@@ -2,6 +2,10 @@
 
 This is the source code for the tactile/force teleoperation APP called **TactAR** in the RSS 2025 paper "[Reactive Diffusion Policy: Slow-Fast Visual-Tactile Policy Learning for Contact-Rich Manipulation](https://reactive-diffusion-policy.github.io/)".
 
+## TODO
+- [x] Add text tutorial on how to use TactAR.
+- [x] Add video tutorial on how to use TactAR.
+
 # Overview
 ![image](./Image/TactAR.gif)
 Overview of TactAR teleoperation system. It can provide real-time tactile / force feedback via Augmented Reality (AR). The tactile feedback is represented as the 3D deformation field, which is a universal representation applicable to multiple different tactile / force sensors. The 3D deformation field is rendered and "attached" to the robot end-effector in AR, which makes the user perceive the rich contact information in 3D space. TactAR also support real-time streaming for multiple RGB cameras and optical tactile sensors.
@@ -56,7 +60,7 @@ If there is no need to modify the code or if you simply want to test the functio
 ## [Option 2] Build from source
 If you want to modify the code or the default paramaters (e.g. workstation IP and port), you need to build the Unity APK from source following the [building guidance](Docs/Build.md) and install it into Quest 3.
 
-# User Guide
+# Text Tutorial
 Please refer to the [user guide](Docs/User_Guide.md) for detailed guidance on how to use TactAR for teleoperation.
 
 # Video Tutorial
