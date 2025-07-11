@@ -41,5 +41,8 @@ Make sure that both VR controllers are held in your hands and can be tracked by 
 ### 7. (Optional) Change Control of Left and Right Arms
 Find and select the `SwitchL-R` option in the IP settings interface to change the control assignment for the left and right arms.
 
-### 8. Exit the Software
+### 8. (Optional) Enable Camera Streaming
+You can set `enable_streaming=True` in your camera publisher config (use the [demo config](https://github.com/xiaoxiaoxh/reactive_diffusion_policy/blob/main/reactive_diffusion_policy/config/task/real_demo_three_realsense_two_gelsight_two_mctac_24fps.yaml) for reference) to enable camera streaming for certain cameras. You can also set `streaming_quality` to change the image quality and `streaming_display_params_list` to change the display position and rotation.
+
+### 9. Exit the Software
 Hold the `Meta` button on the right controller to exit the software.
